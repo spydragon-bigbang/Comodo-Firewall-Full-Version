@@ -240,4 +240,4 @@ This repository serves as the official landing page for Comodo Firewall. The sof
 **Get the most recent version of Comodo Firewall today!**
 
 ---
-**Last updated:** 2026-10-05 22:25:26 UTC
+**Last updated:** 2026-10-06 02:48:13 UTC
